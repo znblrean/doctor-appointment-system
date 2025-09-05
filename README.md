@@ -1,4 +1,4 @@
-# doctor-appointment-system
+
 # Doctor Appointment System API
 
 A comprehensive RESTful API for managing doctor appointments with user authentication, built with FastAPI, MongoDB, and JWT authentication.
